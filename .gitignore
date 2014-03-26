@@ -1,0 +1,10 @@
+*~
+*.class
+dist/*
+.lib
+lib_managed/
+*.log
+.*.sw*
+target/
+.*.un~
+*.un~
