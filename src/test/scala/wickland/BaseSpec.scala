@@ -8,3 +8,4 @@ abstract class BaseSpec
   with OptionValues
   with TryValues
   with EitherValues
+  with prop.PropertyChecks
