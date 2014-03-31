@@ -2,7 +2,7 @@ package wickland
 package ch2
 
 class PackageSpec extends BaseSpec {
-  behavior of "Ex1: 14th fibonocci"
+  behavior of "Ex1: fibonocci"
   it should "do easy" in {
     fib(14) shouldBe 377
   }
